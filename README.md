@@ -1,5 +1,126 @@
 # 💫 About Me:
-<!-- Header Banner --><br><div align="center"><br><br>```<br>██████╗ ███████╗███████╗██████╗  █████╗ ██╗  ██╗    ██╗ █████╗ ██╗███╗   ██╗<br>██╔══██╗██╔════╝██╔════╝██╔══██╗██╔══██╗██║ ██╔╝    ██║██╔══██╗██║████╗  ██║<br>██║  ██║█████╗  █████╗  ██████╔╝███████║█████╔╝     ██║███████║██║██╔██╗ ██║<br>██║  ██║██╔══╝  ██╔══╝  ██╔═══╝ ██╔══██║██╔═██╗██   ██║██╔══██║██║██║╚██╗██║<br>██████╔╝███████╗███████╗██║     ██║  ██║██║  ██╗╚█████╔╝██║  ██║██║██║ ╚████║<br>╚═════╝ ╚══════╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝<br>```<br><br>### ☁️ Azure & Salesforce Integration Engineer · 8+ Years in DevOps · MS Computer Information Systems<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepakjain)<br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepakjain)<br><br></div><br><br>---<br><br>## 👨‍💻 About Me<br><br>> *"Build pipelines that don't need babysitting."*<br><br>I'm an Integration Engineer and DevOps practitioner with 8+ years of experience bridging enterprise platforms — currently focused on **Azure ↔ Salesforce** API integrations at **Vantage Data Centers**. I believe in clean architecture, automation-first thinking, and code that explains itself.<br><br>---<br><br>## 🔭 Currently Working On<br><br>- **Azure / Salesforce APIM Integration** — building robust data pipelines between Salesforce custom objects and Azure Functions, with Smartsheet as a middle layer<br>- Designing **idempotent sync workflows** for EMEA & APAC site tracking data<br>- **Terraform-managed** Azure infrastructure for DEV/TEST environment parity<br><br>---<br><br>## 🌱 Currently Learning<br><br>- **MCP (Model Context Protocol)** — exploring it as a cleaner alternative to bespoke middleware for connecting AI agents to enterprise APIs (Azure, Salesforce, Smartsheet)<br>- Advanced **Databricks / Apache Spark** patterns for Parquet-based data lake reads<br>- Deepening expertise in **Azure Logic Apps** orchestration patterns<br><br>---<br><br>## 👯 Looking to Collaborate On<br><br>- Enterprise **API integration projects** (Salesforce, Azure, REST/SOAP)<br>- **DevOps automation** pipelines — CI/CD, infra-as-code, patching workflows<br>- Open-source tooling around **MCP servers** and AI-augmented workflows<br><br>---<br><br>## 🤔 Looking for Help With<br><br>- Best practices for **multi-environment secret management** in Azure Functions (DEV → TEST → PROD promotion)<br>- Community patterns for **Salesforce SOQL optimization** on large custom object datasets<br>- Production-grade **MCP server** design for Salesforce integrations<br><br>---<br><br>## 💬 Ask Me About<br><br>- **Azure Functions** (JavaScript/Node.js) — real-world gotchas and patterns<br>- **Salesforce SOQL** on custom objects (`Site__c`, `NSD_Project__c`, etc.)<br>- **DevOps toolchain migrations** — Azure DevOps → GitHub, CircleCI, Jenkins, CloudBees<br>- **Smartsheet API** integration patterns<br>- Setting up **Claude Code** in enterprise dev environments<br><br>---<br><br>## 📫 How to Reach Me<br><br>- 💼 [LinkedIn](https://linkedin.com/in/deepakjain)<br>- 📧 deepak@example.com *(update with your actual email)*<br>- 🐙 Open an issue or discussion on any of my repos — I respond fast<br><br>---<br><br>## 😄 Pronouns<br><br>He / Him<br><br>---<br><br>## ⚡ Fun Fact<br><br>I've migrated more repos from Azure DevOps to GitHub than I've had hot coffees ☕ — and I've automated enough VM patching scripts to free up entire weekends. When I'm not in a terminal, I'm chasing two daughters around a park.<br><br>---<br><br>## 🛠️ Tech Stack<br><br><div align="center"><br><br>![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)<br>![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)<br>![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)<br>![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)<br>![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)<br>![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)<br>![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)<br>![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)<br>![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)<br>![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)<br>![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)<br><br></div><br><br>---<br><br><div align="center"><br><img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=0078D4&icon_color=00A1E0" alt="GitHub Stats" /><br><img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0d1117&ring=0078D4&fire=00A1E0&currStreakLabel=0078D4" alt="GitHub Streak" /><br></div><br><br>---<br><br><div align="center"><br><sub>⚡ Powered by Azure · Salesforce · and too much coffee</sub><br></div>
+<!-- Header Banner -->
+<div align="center">
+
+```
+██████╗ ███████╗███████╗██████╗  █████╗ ██╗  ██╗    ██╗ █████╗ ██╗███╗   ██╗
+██╔══██╗██╔════╝██╔════╝██╔══██╗██╔══██╗██║ ██╔╝    ██║██╔══██╗██║████╗  ██║
+██║  ██║█████╗  █████╗  ██████╔╝███████║█████╔╝     ██║███████║██║██╔██╗ ██║
+██║  ██║██╔══╝  ██╔══╝  ██╔═══╝ ██╔══██║██╔═██╗██   ██║██╔══██║██║██║╚██╗██║
+██████╔╝███████╗███████╗██║     ██║  ██║██║  ██╗╚█████╔╝██║  ██║██║██║ ╚████║
+╚═════╝ ╚══════╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
+```
+
+### ☁️ Azure & Salesforce Integration Engineer · 8+ Years in DevOps · MS Computer Information Systems
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepakjain)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepakjain)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+> *"Build pipelines that don't need babysitting."*
+
+I'm an Integration Engineer and DevOps practitioner with 8+ years of experience bridging enterprise platforms — currently focused on **Azure ↔ Salesforce** API integrations at **Vantage Data Centers**. I believe in clean architecture, automation-first thinking, and code that explains itself.
+
+---
+
+## 🔭 Currently Working On
+
+- **Azure / Salesforce APIM Integration** — building robust data pipelines between Salesforce custom objects and Azure Functions, with Smartsheet as a middle layer
+- Designing **idempotent sync workflows** for EMEA & APAC site tracking data
+- **Terraform-managed** Azure infrastructure for DEV/TEST environment parity
+
+---
+
+## 🌱 Currently Learning
+
+- **MCP (Model Context Protocol)** — exploring it as a cleaner alternative to bespoke middleware for connecting AI agents to enterprise APIs (Azure, Salesforce, Smartsheet)
+- Advanced **Databricks / Apache Spark** patterns for Parquet-based data lake reads
+- Deepening expertise in **Azure Logic Apps** orchestration patterns
+
+---
+
+## 👯 Looking to Collaborate On
+
+- Enterprise **API integration projects** (Salesforce, Azure, REST/SOAP)
+- **DevOps automation** pipelines — CI/CD, infra-as-code, patching workflows
+- Open-source tooling around **MCP servers** and AI-augmented workflows
+
+---
+
+## 🤔 Looking for Help With
+
+- Best practices for **multi-environment secret management** in Azure Functions (DEV → TEST → PROD promotion)
+- Community patterns for **Salesforce SOQL optimization** on large custom object datasets
+- Production-grade **MCP server** design for Salesforce integrations
+
+---
+
+## 💬 Ask Me About
+
+- **Azure Functions** (JavaScript/Node.js) — real-world gotchas and patterns
+- **Salesforce SOQL** on custom objects (`Site__c`, `NSD_Project__c`, etc.)
+- **DevOps toolchain migrations** — Azure DevOps → GitHub, CircleCI, Jenkins, CloudBees
+- **Smartsheet API** integration patterns
+- Setting up **Claude Code** in enterprise dev environments
+
+---
+
+## 📫 How to Reach Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/deepakjain)
+- 📧 deepak@example.com *(update with your actual email)*
+- 🐙 Open an issue or discussion on any of my repos — I respond fast
+
+---
+
+## 😄 Pronouns
+
+He / Him
+
+---
+
+## ⚡ Fun Fact
+
+I've migrated more repos from Azure DevOps to GitHub than I've had hot coffees ☕ — and I've automated enough VM patching scripts to free up entire weekends. When I'm not in a terminal, I'm chasing two daughters around a park.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=0078D4&icon_color=00A1E0" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0d1117&ring=0078D4&fire=00A1E0&currStreakLabel=0078D4" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+<sub>⚡ Powered by Azure · Salesforce · and too much coffee</sub>
+</div>
 
 
 # 💻 Tech Stack:
