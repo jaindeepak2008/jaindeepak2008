@@ -163,6 +163,6 @@ I've migrated more repos from Azure DevOps to GitHub than I've had hot coffees �
 
 ---
 
-<div align="center">
+<div>
 <sub>⚡ Powered by Azure · Salesforce · and too much coffee</sub>
 </div>
